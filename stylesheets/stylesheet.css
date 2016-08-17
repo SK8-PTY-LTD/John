@@ -1,9 +1,14 @@
 
-.page-one{
+.jumbotron{
   background:url(../images/bg1.png) 
   no-repeat center center;
   color:#fff}
 
+.navbar .navbar-brand {
+  color: rgba(255, 255, 255, .85);
+  font-size: 1rem;
+  padding-top:  .45rem;
+}
 
 .site-footer {
   padding-top: 2rem;
